@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🧠 NeuralFoundry  
+**LLM Trainer & AI Systems Developer**  
+_Building and optimizing real-world AI systems._
 
-<!--
-**NeuralFoundry/NeuralFoundry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “AI shouldn't just predict — it should understand.”
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me  
+Currently working as an **AI Systems Developer**, specializing in:
+- Training & fine-tuning **LLMs**
+- Optimizing model inference and latency  
+- Designing **hybrid AI architectures**
+- Creating tools for **real-world human interaction with AI**
+
+I work across multiple regions:
+**🇹🇼 Taiwan • 🇰🇷 Korea • 🇭🇰 Hong Kong • 🇯🇵 Japan**
+
+---
+
+## 🧪 Areas of Expertise
+
+```yaml
+AI / LLM:
+  Model fine-tuning • Transfer learning
+  Prompt engineering • Attention analysis
+  Quantization • LoRA training
+Backend & Systems:
+  FastAPI • PyTorch • Redis
+  DevOps pipelines • Model serving
+Languages:
+  Python • Typescript • Dart (Flutter)
