@@ -2,7 +2,7 @@
 **LLM Trainer & AI Systems Developer**  
 _Building and optimizing real-world AI systems._
 
-> “AI shouldn't just predict — it should understand.”
+> “AI shouldn't just predict it should understand.”
 
 ---
 
