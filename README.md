@@ -35,15 +35,45 @@ I write code from:
 
 ## 🧪 Areas of Expertise
 
+### 🔷 AI / LLM Engineering
+- Fine-tuning, transfer learning, custom dataset pipelines  
+- LoRA & QLoRA training, model quantization  
+- Prompt engineering & attention behavior analysis  
+- Instruction tuning & memory-enabled agents  
+- Conversational AI flow design (multi-turn logic)  
+- Token usage analysis & cost optimization  
+
+### 🔷 Backend & System Architecture
+- FastAPI • Flask • Express.js  
+- REST & WebSocket APIs  
+- Microservice design & modular architecture  
+- Auth systems (JWT, OAuth2, session handling)  
+- Rate limiting & request lifecycle management  
+- Backend performance profiling & optimization  
+
+### 🔷 DevOps & Deployment
+- Docker, Docker Compose, Kubernetes  
+- CI/CD pipelines • GitHub Actions  
+- Reverse proxies & Nginx routing  
+- Redis caching • async task queues  
+- Load testing & traffic simulation  
+- Server monitoring & logging architecture  
+
+### 🔷 Browser & Automation Toolkit
+- Playwright / Selenium automation  
+- Headless browser fingerprint spoofing  
+- Human-like scrolling / click simulation  
+- Proxy rotation & traffic distribution  
+- Website scraping & API reverse-engineering  
+
+### 🔷 Tools & Libraries I use regularly
+- aiohttp • asyncio • threading / multiprocessing  
+- PyTorch • Transformers • Whisper  
+- SQL (MySQL / PostgreSQL) • Redis • Firebase  
+- FastAPI dependency injection  
+- Data validation with Pydantic & Marshmallow  
+
+### 🔷 Languages
 ```yaml
-AI / LLM:
-  Fine-tuning • Transfer learning
-  Attention analysis • Prompt engineering
-  Quantization • LoRA training
-Backend & Systems:
-  FastAPI • PyTorch • Redis • WebSockets
-  DevOps pipelines • scalable APIs
-Languages:
-  Python • Typescript • Dart (Flutter)
-Other:
-  asyncio • Playwright • scraping automation
+Python • Typescript • Dart (Flutter)
+Node.js • Bash • SQL
