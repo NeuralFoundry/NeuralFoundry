@@ -73,7 +73,3 @@ I write code from:
 - FastAPI dependency injection  
 - Data validation with Pydantic & Marshmallow  
 
-### 🔷 Languages
-```yaml
-Python • Typescript • Dart (Flutter)
-Node.js • Bash • SQL
