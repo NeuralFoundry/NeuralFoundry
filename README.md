@@ -1,4 +1,4 @@
-# 🧠 NeuralFoundry  
+#  NeuralFoundry  
 **LLM Trainer & AI Systems Developer**  
 _Engineering real-world AI systems across cloud and production environments._
 
@@ -6,7 +6,7 @@ _Engineering real-world AI systems across cloud and production environments._
 
 ---
 
-## 🔍 About Me  
+##  About Me  
 
 Currently working as an **AI Systems Developer** at a tech company.  
 I design, train, and optimize **large language models (LLMs)** and build  
@@ -17,7 +17,7 @@ I write code from:
 
 ---
 
-## 🧩 Development Style & Principles
+##  Development Style & Principles
 
 | Area | Principle |
 |------|-----------|
@@ -33,9 +33,9 @@ I write code from:
 
 ---
 
-## 🧪 Areas of Expertise
+##  Areas of Expertise
 
-### 🔷 AI / LLM Engineering
+###  AI / LLM Engineering
 - Fine-tuning, transfer learning, custom dataset pipelines  
 - LoRA & QLoRA training, model quantization  
 - Prompt engineering & attention behavior analysis  
@@ -43,7 +43,7 @@ I write code from:
 - Conversational AI flow design (multi-turn logic)  
 - Token usage analysis & cost optimization  
 
-### 🔷 Backend & System Architecture
+###  Backend & System Architecture
 - FastAPI • Flask • Express.js  
 - REST & WebSocket APIs  
 - Microservice design & modular architecture  
@@ -51,7 +51,7 @@ I write code from:
 - Rate limiting & request lifecycle management  
 - Backend performance profiling & optimization  
 
-### 🔷 DevOps & Deployment
+###  DevOps & Deployment
 - Docker, Docker Compose, Kubernetes  
 - CI/CD pipelines • GitHub Actions  
 - Reverse proxies & Nginx routing  
@@ -59,14 +59,14 @@ I write code from:
 - Load testing & traffic simulation  
 - Server monitoring & logging architecture  
 
-### 🔷 Browser & Automation Toolkit
+###  Browser & Automation Toolkit
 - Playwright / Selenium automation  
 - Headless browser fingerprint spoofing  
 - Human-like scrolling / click simulation  
 - Proxy rotation & traffic distribution  
 - Website scraping & API reverse-engineering  
 
-### 🔷 Tools & Libraries I use regularly
+###  Tools & Libraries I use regularly
 - aiohttp • asyncio • threading / multiprocessing  
 - PyTorch • Transformers • Whisper  
 - SQL (MySQL / PostgreSQL) • Redis • Firebase  
